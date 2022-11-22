@@ -17,7 +17,7 @@ This data was used in a story published November 21, 2022 titled "[About-face: W
 <tr>
   <td>2020 Unsheltered</td>
   <td><p>The number of unsheltered people counted during the 2020 point in time count. Please note that nearly half of the continuums of care didn’t conduct a 2020 unsheltered count so HUD used the 2019 unsheltered values. This explains why some continuums have the exact same value for 2019 and 2020 unsheltered people.</p>
-  <p>This comes from the [federal HUD data exchange](https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/).</p></td>
+  <p>This comes from the <a href="https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/">federal HUD data exchange</a>.</p></td>
 </tr>
 <tr>
   <td>2022 Unsheltered</td>
